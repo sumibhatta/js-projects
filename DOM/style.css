@@ -1,0 +1,21 @@
+#heading{
+    color: rgba(252, 42, 5, 0.699);
+    text-align: center;
+}
+
+#text{
+    color: #ff7b54;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+#canvas{
+    width : 400px;
+    height: 200px;
+    position: relative;
+    background-color: tomato;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 10%);
+}
